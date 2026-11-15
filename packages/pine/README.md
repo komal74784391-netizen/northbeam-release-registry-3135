@@ -23,7 +23,7 @@ Pine scores documents with an inverted index and field-weighted term matching. S
 
 ## Citation
 
-Pine: Sparse lexical retrieval for structured catalogs. SIGIR 2022.
+Pine: Catalog lookup at retail scale. SIGIR 2022.
 
 ## License
 

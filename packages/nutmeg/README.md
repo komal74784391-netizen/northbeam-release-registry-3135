@@ -1,7 +1,7 @@
 # Nutmeg
 
 > 🚧 **To be released.** This repository will contain the reference implementation
-> for the paper "Nutmeg: Hierarchical dual encoders for long wiki pages" (accepted at CIKM 2026). The training
+> for the paper "Nutmeg: Retrieval for long internal wiki pages" (accepted at CIKM 2026). The training
 > code, pretrained checkpoint and evaluation harness will be published here after
 > the camera-ready deadline.
 
@@ -24,7 +24,7 @@ See `docs/architecture.md` for the method section of the paper.
 
 ```bibtex
 @inproceedings{nutmeg2026,
-  title     = {Nutmeg: Hierarchical dual encoders for long wiki pages},
+  title     = {Nutmeg: Retrieval for long internal wiki pages},
   author    = {Northbeam Retrieval Group},
   booktitle = {Under review},
   year      = {2026}

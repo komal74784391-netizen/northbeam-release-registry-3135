@@ -23,7 +23,7 @@ See `docs/architecture.md` for the scoring formulation.
 
 ## Citation
 
-Oak: Field-weighted lexical retrieval for scanned policies. DocEng 2021.
+Oak: Evidence lookup for scanned policy manuals. DocEng 2021.
 
 ## License
 

@@ -23,7 +23,7 @@ See `docs/architecture.md` for the scoring formulation.
 
 ## Citation
 
-Rowan: Graph propagation for cross-document evidence linking. CIKM 2023.
+Rowan: Cross-document evidence linking for investigation reports. CIKM 2023.
 
 ## License
 

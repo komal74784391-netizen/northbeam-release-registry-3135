@@ -23,7 +23,7 @@ See `docs/architecture.md` for the scoring formulation.
 
 ## Citation
 
-Quince: Late-interaction matching for regulatory filings. ACL 2024.
+Quince: Clause-level matching for regulatory filings. ACL 2024.
 
 ## License
 
