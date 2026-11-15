@@ -1,0 +1,3 @@
+{"query": "how do I configure kauri for the staging cluster", "top_k": 10}
+{"query": "what changed in the latest release documentation", "top_k": 10}
+{"query": "runbook for rolling back the indexing service", "top_k": 10}
